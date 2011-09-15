@@ -1,0 +1,2 @@
+--- 
+BUNDLE_BUILD__RUBY-ODBC: --with-odbc-dir=/usr/local/Cellar/unixodbc/2.3.0
