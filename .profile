@@ -36,6 +36,7 @@ PS4='+ '
 proml
 
 alias mateme="mate Gemfile README app/ lib/ config/ features/ spec/ public/javascripts public/stylesheets"
+alias vime="mvim ."
 alias tlgo='cd /Users/ljime3/Sites/travelandleisure'
 alias etgo='rvm use 1.8.6; rvm gemset use travel; cd /Users/ljime3/Sites/executive-travel'
 alias depgo='rvm use 1.8.6; rvm gemset use travel; cd /Users/ljime3/Sites/departures'

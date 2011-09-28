@@ -8,3 +8,5 @@
 # 	external = /Users/ljime3/git-diff-cmd.sh
 [github]
 	user = lorgio
+[core]
+	editor = /usr/bin/vim
