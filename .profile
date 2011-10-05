@@ -15,7 +15,7 @@ function proml {
 	local	 BOLD_BLACK='\e[1;30m' # Black - Bold
 	local	 TEXT_BLACK='\e[0;30m' # Black - Regular
 	local	 TEXT_RESET='\e[0m'    # Text Reset
-	
+
 
   case $TERM in
     xterm*)
@@ -70,3 +70,4 @@ AUTOFEATURE=true
 
 # PATH=/Users/ljime3/.rvm/rubies/ruby-1.8.6-p420/bin:/Users/ljime3/.rvm/gems/ruby-1.8.6-p420/bin:/usr/local/bin:$PATH ; export PATH
 # RUBYLIB=/usr/local/lib ; export RUBYLIB
+/bin/zsh

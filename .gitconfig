@@ -1,6 +1,6 @@
 [user]
 	name = Lorgio A Jimenez
-	email = lorgio.a.jimenez@aexp.com
+	email = Lorgio.A.Jimenez@aexp.com
 # [mergetool "diffmerge"]
 # 	cmd = diffmerge --merge --result=$MERGED $LOCAL $BASE $REMOTE
 # 	trustExitCode = false
